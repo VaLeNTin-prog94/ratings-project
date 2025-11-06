@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.venv/
+.pytest_cache/
+/shelf/
+/workspace.xml
+# IDE settings
+.idea/
+.vscode/
+__pycache__/
+/ratings_project.egg-info
